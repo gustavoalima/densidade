@@ -5,8 +5,9 @@
 Este projeto foi desenvolvido como parte do **Projeto Integrador** da Universidade Paranaense (UNIPAR), com o objetivo de aplicar conhecimentos adquiridos ao longo do curso na criação de uma solução tecnológica prática e funcional.
 
 ### 👩‍🎓 **Acadêmicos**
-- **Gustavo Amaro de Lima**  
 - **Francieli Marri**  
+- **Gustavo Amaro de Lima**  
+
 
 ---
 
